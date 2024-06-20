@@ -9,11 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f1d16d86d605bc4db20b4c11865b30d, type: 3}
-  m_Name: level0_end
+  m_Script: {fileID: 11500000, guid: 3423e71a21411ec488dcbbe14388db20, type: 3}
+  m_Name: level2_end
   m_EditorClassIdentifier: 
-  dialogue:
-  - 
-  responses:
-  - responseText: 
-    dialogueObject: {fileID: 0}
+  speakerName: instructor
+  paragraphs:
+  - Congratulation player!!!!!!
+  - Thank you for playing bad game!!!!
+  - Have a nice day:))))
